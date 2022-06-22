@@ -32,7 +32,7 @@ lxml==4.6.3
 Markdown==3.3.4
 matplotlib==3.4.2
 matplotlib-inline==0.1.2
-numpy==1.19.5
+numpy==1.22.0
 oauthlib==3.1.1
 object-detection==0.1
 opencv-python==4.5.2.54
