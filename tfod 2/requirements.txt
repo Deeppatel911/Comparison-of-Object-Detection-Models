@@ -42,7 +42,7 @@ parso==0.8.2
 pickleshare==0.7.5
 Pillow==8.2.0
 prompt-toolkit==3.0.19
-protobuf==3.17.3
+protobuf==3.18.3
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycocotools @ git+https://github.com/philferriere/cocoapi.git@2929bd2ef6b451054755dfd7ceb09278f935f7ad#subdirectory=PythonAPI
