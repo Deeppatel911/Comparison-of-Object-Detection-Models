@@ -78,6 +78,6 @@ typeguard==2.12.1
 typing-extensions==3.7.4.3
 urllib3==1.26.5
 wcwidth==0.2.5
-Werkzeug==2.0.1
+Werkzeug==2.2.3
 wget==3.2
 wrapt==1.12.1
